@@ -12,7 +12,7 @@ DKlutter brings your day together in one focused workspace on your Mac.
 [![Download for Mac](https://img.shields.io/badge/Download_for_Mac-1.1.1-c7d8b6?style=for-the-badge&logo=apple&logoColor=171b18&labelColor=171b18)](https://github.com/maxdeftech/DKlutter-desktop/releases/latest/download/DKlutter-macOS-Apple-Silicon.dmg)
 [![Open DKlutter](https://img.shields.io/badge/Open_DKlutter-on_the_web-f1efe6?style=for-the-badge&labelColor=171b18)](https://dklutter.maxdeftech.com)
 
-**macOS 12 or later · Apple Silicon · Version 1.1.1**
+**macOS 13.0 or later · Apple Silicon · Version 1.1.1**
 
 [What’s new](CHANGELOG.md) &nbsp; · &nbsp; [Download details](https://github.com/maxdeftech/DKlutter-desktop/releases/latest) &nbsp; · &nbsp; [Get help](SUPPORT.md)
 
