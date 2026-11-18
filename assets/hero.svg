@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="560" viewBox="0 0 1440 560" role="img" aria-labelledby="title desc">
+<title id="title">DKlutter — Clear the noise. Run your time well.</title>
+<desc id="desc">A dark editorial banner with a calm cream headline and an illustrative daily planner.</desc>
+<defs>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c0e10"/><stop offset="1" stop-color="#171b1a"/></linearGradient>
+ <linearGradient id="card" x2="0" y2="1"><stop stop-color="#252c28"/><stop offset="1" stop-color="#161b18"/></linearGradient>
+</defs>
+<rect width="1440" height="560" rx="24" fill="url(#bg)"/>
+<rect width="1440" height="560" rx="24" fill="url(#grid)"/>
+<circle cx="1260" cy="30" r="350" fill="#c6dfad" opacity=".025"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
+ <rect x="64" y="59" width="5" height="26" rx="2" fill="#c4d7ae"/>
+ <text x="84" y="81" fill="#f0efe9" font-size="25" font-weight="750" letter-spacing="-.8">DKlutter</text>
+ <text x="64" y="161" fill="#abb4a3" font-size="12" font-weight="600" letter-spacing="3">YOUR DAY. WITH A LITTLE MORE CLARITY.</text>
+ <text x="59" y="250" fill="#f1efe6" font-size="76" font-weight="750" letter-spacing="-4">Clear the noise.</text>
+ <text x="59" y="335" fill="#c7d8b6" font-size="76" font-weight="750" letter-spacing="-4">Run your time well.</text>
+ <text x="64" y="399" fill="#aaaead" font-size="19">Tasks, notes and timetables. One connected workspace.</text>
+ <path d="M64 450H748" stroke="#313833"/>
+ <text x="64" y="487" fill="#c6cbc5" font-size="12" font-weight="600" letter-spacing="2">MADE FOR macOS</text>
+ <text x="748" y="487" text-anchor="end" fill="#7b867c" font-size="12" letter-spacing="1.3">BY MAXDEF TECHNOLOGIES</text>
+ <g transform="translate(841 83)">
+  <rect width="526" height="390" rx="18" fill="#000" opacity=".2" transform="translate(0 13)"/>
+  <rect width="526" height="390" rx="18" fill="url(#card)" stroke="#3c483e"/>
+  <path d="M0 51H526" stroke="#364038"/>
+  <circle cx="23" cy="26" r="4" fill="#7b8976"/><circle cx="39" cy="26" r="4" fill="#576451"/><circle cx="55" cy="26" r="4" fill="#3e4a3a"/>
+  <text x="494" y="31" text-anchor="end" fill="#86927f" font-size="10" letter-spacing="1.5">A LITTLE ROOM TO FOCUS</text>
+  <text x="28" y="98" fill="#f1efe6" font-size="30" font-weight="700" letter-spacing="-1">Make space for today.</text>
+  <text x="29" y="126" fill="#98a490" font-size="13">One thoughtful step at a time.</text>
+  <rect x="27" y="153" width="472" height="57" rx="10" fill="#c7d8b6"/>
+  <rect x="43" y="172" width="18" height="18" rx="5" fill="#243322"/>
+  <path d="m48 181 3 3 6-7" fill="none" stroke="#dcebcf" stroke-width="2"/>
+  <text x="76" y="187" fill="#263121" font-size="15" font-weight="650">Start with what matters</text>
+  <rect x="27" y="221" width="472" height="57" rx="10" fill="#ffffff" fill-opacity=".035" stroke="#3e493e"/>
+  <rect x="43" y="240" width="18" height="18" rx="5" fill="none" stroke="#66775d"/>
+  <text x="76" y="255" fill="#d0d7c9" font-size="15">Give your ideas a home</text>
+  <rect x="27" y="289" width="472" height="57" rx="10" fill="#ffffff" fill-opacity=".035" stroke="#3e493e"/>
+  <rect x="43" y="308" width="18" height="18" rx="5" fill="none" stroke="#66775d"/>
+  <text x="76" y="323" fill="#d0d7c9" font-size="15">Leave room for tomorrow</text>
+  <text x="29" y="374" fill="#71806a" font-size="10" letter-spacing="1.8">PLAN  /  WRITE  /  FOCUS</text>
+ </g>
+</g>
+</svg>

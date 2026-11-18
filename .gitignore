@@ -1,0 +1,18 @@
+# Only reviewed public documentation and branding belong in this repository.
+*
+!README.md
+!CHANGELOG.md
+!SUPPORT.md
+!SECURITY.md
+!current.json
+!.gitignore
+!assets/
+assets/*
+!assets/hero.svg
+!assets/dklutter-icon.png
+!.github/
+.github/*
+!.github/ISSUE_TEMPLATE/
+.github/ISSUE_TEMPLATE/*
+!.github/ISSUE_TEMPLATE/bug_report.yml
+!.github/ISSUE_TEMPLATE/config.yml

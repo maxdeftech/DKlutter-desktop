@@ -1,0 +1,33 @@
+name: Report a Mac app problem
+description: Tell us what happened so we can help.
+title: "[Mac app] "
+body:
+  - type: markdown
+    attributes:
+      value: "Please hide personal information. Never include passwords, access codes or private workspace content. For account or billing help, email maxwellinnovativetechnologies@gmail.com."
+  - type: input
+    id: app-version
+    attributes:
+      label: DKlutter version
+      description: Look in DKlutter → About DKlutter.
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version and Mac chip
+      placeholder: "For example: macOS 15, Apple M2"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include what you expected, what happened instead, and any error message.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we reproduce it?
+      description: Tell us the steps you took before the problem appeared.

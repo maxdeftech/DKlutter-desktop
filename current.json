@@ -1,0 +1,19 @@
+{
+  "version": "1.1.1",
+  "date": "November 18, 2026",
+  "platform": "macOS",
+  "architecture": "Apple Silicon",
+  "minimumMacOS": "12.0",
+  "downloads": [
+    {
+      "name": "DKlutter-macOS-Apple-Silicon.dmg",
+      "sha256": "7ae38d797a410218a8bc7de45dc1d37c18920cba62ad828d9801d47bd8b976fd",
+      "url": "https://github.com/maxdeftech/DKlutter-desktop/releases/download/v1.1.1/DKlutter-macOS-Apple-Silicon.dmg"
+    },
+    {
+      "name": "DKlutter-macOS-Apple-Silicon.zip",
+      "sha256": "a4e210f16059900a002208d6a80dc134d31e9e2da2828df322e468f54db03ff6",
+      "url": "https://github.com/maxdeftech/DKlutter-desktop/releases/download/v1.1.1/DKlutter-macOS-Apple-Silicon.zip"
+    }
+  ]
+}
