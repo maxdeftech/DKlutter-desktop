@@ -2,6 +2,19 @@
 
 A plain-language history of workspace features and Mac app improvements. Only the current installer is available here.
 
+## 1.2.0 · November 18, 2026
+
+### Features
+
+- Clear Pro trial countdowns appear in the navigation bar and dashboard, separate from Get Pro.
+- Pro purchases keep the remaining free trial time, with 30 paid days added for monthly purchases.
+- Eligible existing customers receive an extra 30 days with the December 30 offer.
+
+### Mac app & installer
+
+- The Mac app includes the same promotion and saved-time displays as the web workspace.
+- Trial-only accounts return to Free when the promotion ends, while purchased and credited time remains available.
+
 ## 1.1.1 · November 18, 2026
 
 ### Mac app & installer
