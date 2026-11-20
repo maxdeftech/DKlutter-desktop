@@ -9,10 +9,10 @@
 Plan a busy week, capture an idea, or make space for your next big thing.<br>
 DKlutter brings your day together in one focused workspace on your Mac.
 
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-1.2.0-c7d8b6?style=for-the-badge&logo=apple&logoColor=171b18&labelColor=171b18)](https://github.com/maxdeftech/DKlutter-desktop/releases/latest/download/DKlutter-macOS-Apple-Silicon.dmg)
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-1.2.2-c7d8b6?style=for-the-badge&logo=apple&logoColor=171b18&labelColor=171b18)](https://github.com/maxdeftech/DKlutter-desktop/releases/latest/download/DKlutter-macOS-Apple-Silicon.dmg)
 [![Open DKlutter](https://img.shields.io/badge/Open_DKlutter-on_the_web-f1efe6?style=for-the-badge&labelColor=171b18)](https://dklutter.maxdeftech.com)
 
-**macOS 13.0 or later · Apple Silicon · Version 1.2.0**
+**macOS 13.0 or later · Apple Silicon · Version 1.2.2**
 
 [What’s new](CHANGELOG.md) &nbsp; · &nbsp; [Download details](https://github.com/maxdeftech/DKlutter-desktop/releases/latest) &nbsp; · &nbsp; [Get help](SUPPORT.md)
 
@@ -91,13 +91,10 @@ An internet connection and a DKlutter account are required. Feature availability
 
 ## What’s new
 
-### 1.2.0 · November 18, 2026
+### 1.2.2 · November 20, 2026
 
-- Clear Pro trial countdowns appear in the navigation bar and dashboard, separate from Get Pro.
-- Pro purchases keep the remaining free trial time, with 30 paid days added for monthly purchases.
-- Eligible existing customers receive an extra 30 days with the December 30 offer.
-- The Mac app includes the same promotion and saved-time displays as the web workspace.
-- Trial-only accounts return to Free when the promotion ends, while purchased and credited time remains available.
+- The Pro trial countdown now appears below Settings in the left navigation, with more room for the top toolbar.
+- Updated the Mac app with the trial countdown placement in standard, quick and branched navigation.
 
 [Read the full changelog →](CHANGELOG.md)
 

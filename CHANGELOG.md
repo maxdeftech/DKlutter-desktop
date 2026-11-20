@@ -2,6 +2,16 @@
 
 A plain-language history of workspace features and Mac app improvements. Only the current installer is available here.
 
+## 1.2.2 · November 20, 2026
+
+### Features
+
+- The Pro trial countdown now appears below Settings in the left navigation, with more room for the top toolbar.
+
+### Mac app & installer
+
+- Updated the Mac app with the trial countdown placement in standard, quick and branched navigation.
+
 ## 1.2.0 · November 18, 2026
 
 ### Features
